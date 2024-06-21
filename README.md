@@ -1,6 +1,5 @@
 ### ProEventos - Curso da Udemy
 
-# Seja Full-Stack com .NET Web API e Angular + EF Core - V2.0 - [Course](http://www.udemy.com/course/angular-dotnetcore-efcore/?referralCode=F44264DF39DEEE45EC50).
 
 This is all of the files for our Course about Angular, WebAPI and More
 
